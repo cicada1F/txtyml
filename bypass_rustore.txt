@@ -1,0 +1,513 @@
+# Rustore https://www.rustore.ru/catalog/app/ru.vk.store
+https://www.rustore.ru/catalog/app/ru.vk.store
+
+# Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации https://www.rustore.ru/catalog/developer/b46d9f81
+https://www.rustore.ru/catalog/app/ru.rostel
+https://www.rustore.ru/catalog/app/ru.gosuslugi.school
+https://www.rustore.ru/catalog/app/ru.gosuslugi.goskey
+https://www.rustore.ru/catalog/app/ru.gosuslugi.auto
+https://www.rustore.ru/catalog/app/ru.gosuslugi.pos
+https://www.rustore.ru/catalog/app/ru.gosuslugi.culture
+https://www.rustore.ru/catalog/app/team.rtds.checkcontrol
+https://www.rustore.ru/catalog/app/ru.fanid
+https://www.rustore.ru/catalog/app/ru.gosuslugi.migrant
+https://www.rustore.ru/catalog/app/ru.imteleport.plp2
+https://www.rustore.ru/catalog/app/ru.gosuslugi.pos.executor
+https://www.rustore.ru/catalog/app/ru.gosuslugi.volunteer
+https://www.rustore.ru/catalog/app/com.pobeda.anniversary
+https://www.rustore.ru/catalog/app/ru.okbmei.gosservice
+
+# Информационный город ГКУ https://www.rustore.ru/catalog/developer/2fc01da6
+https://www.rustore.ru/catalog/app/ru.mos.amina.app
+https://www.rustore.ru/catalog/app/ru.dit.smartstaff
+https://www.rustore.ru/catalog/app/ru.mos.app
+https://www.rustore.ru/catalog/app/ru.mos.myid
+https://www.rustore.ru/catalog/app/ru.altarix.mos.pgu
+https://www.rustore.ru/catalog/app/ru.mos.ed
+https://www.rustore.ru/catalog/app/ru.mos.ourcity
+https://www.rustore.ru/catalog/app/ru.mos.polls
+https://www.rustore.ru/catalog/app/com.tdm.messenger
+https://www.rustore.ru/catalog/app/ru.mos.um
+https://www.rustore.ru/catalog/app/ru.mos.gz
+https://www.rustore.ru/catalog/app/com.moscowsport
+https://www.rustore.ru/catalog/app/ru.mos.ossigbuilder
+https://www.rustore.ru/catalog/app/org.ts.mapp
+https://www.rustore.ru/catalog/app/ru.mos.MskLongevity
+https://www.rustore.ru/catalog/app/ru.mos.msklongevity
+https://www.rustore.ru/catalog/app/ru.mos.cms.erzapp
+https://www.rustore.ru/catalog/app/ru.mos.cms.lkyo
+https://www.rustore.ru/catalog/app/ru.mos.pet
+https://www.rustore.ru/catalog/app/ru.mos.dcloud.client
+https://www.rustore.ru/catalog/app/com.discover.moscow.lite
+https://www.rustore.ru/catalog/app/ru.netris.videocity
+https://www.rustore.ru/catalog/app/ru.mos.analytics.app.prod
+https://www.rustore.ru/catalog/app/ru.mos.aiso.m
+https://www.rustore.ru/catalog/app/ru.open.gisokmp
+
+# ИАЦ в сфере здравоохранения города Москвы https://www.rustore.ru/catalog/developer/b2730967
+https://www.rustore.ru/catalog/app/com.programmisty.emiasapp
+https://www.rustore.ru/catalog/app/tech.clink.emias.emiasqrcode
+https://www.rustore.ru/catalog/app/ru.mgfoms.pandora
+
+# Почта России https://www.rustore.ru/catalog/developer/a1407e2c
+https://www.rustore.ru/catalog/app/com.octopod.russianpost.client.android
+https://www.rustore.ru/catalog/app/ru.russianpost.pechkin
+
+# АО ГНИВЦ https://www.rustore.ru/catalog/developer/112491c5
+https://www.rustore.ru/catalog/app/ru.fns.lkfl
+https://www.rustore.ru/catalog/app/com.gnivts.selfemployed
+https://www.rustore.ru/catalog/app/ru.gnivc.lkip
+https://www.rustore.ru/catalog/app/ru.fns.billchecker.mobile.android
+https://www.rustore.ru/catalog/app/com.gnivts.ausn
+https://www.rustore.ru/catalog/app/ru.fns.mysign
+https://www.rustore.ru/catalog/app/com.electro_tickets.app
+https://www.rustore.ru/catalog/app/es.hol.ing.zagsr
+https://www.rustore.ru/catalog/app/com.bastion
+https://www.rustore.ru/catalog/app/ru.nalog.rmr.client
+
+# ООО "Росатом Сеть зарядных станций" https://www.rustore.ru/catalog/developer/r0j9tier
+https://www.rustore.ru/catalog/app/atom.energo
+
+# ПАО "Россети" https://www.rustore.ru/catalog/developer/w314080u
+https://www.rustore.ru/catalog/app/ru.rosseti.mlk
+
+# АО "Росагролизинг" https://www.rustore.ru/catalog/developer/e43e85bc
+https://www.rustore.ru/catalog/app/ru.rosagroleasing.mobile
+
+# ПАО "Банк ПСБ" https://www.rustore.ru/catalog/developer/f0f02d9b
+https://www.rustore.ru/catalog/app/logo.com.mbanking
+https://www.rustore.ru/catalog/app/ru.psbank.msb.dev.psb_appstore
+https://www.rustore.ru/catalog/app/ru.psbank.invest
+https://www.rustore.ru/catalog/app/sodruzhestvo.android.app
+
+# Банк ВТБ (ПАО) https://www.rustore.ru/catalog/developer/80e24324
+https://www.rustore.ru/catalog/app/ru.vtb24.mobilebanking.android
+https://www.rustore.ru/catalog/app/ru.vtb.invest
+https://www.rustore.ru/catalog/app/ru.vtb.smb
+https://www.rustore.ru/catalog/app/ru.vtb.corporate.android.main_application
+https://www.rustore.ru/catalog/app/ru.lifepay.pos.vtb
+https://www.rustore.ru/catalog/app/ru.m4bank.softpos.vtbpos
+https://www.rustore.ru/catalog/app/az.vtb.android
+https://www.rustore.ru/catalog/app/com.horosho.tips
+
+# АО "Альфа-Банк" https://www.rustore.ru/catalog/developer/a1243e95
+https://www.rustore.ru/catalog/app/ru.alfabank.mobile.android
+https://www.rustore.ru/catalog/app/ru.alfabank.oavdo.amc
+https://www.rustore.ru/catalog/app/ru.alfadirect.app
+https://www.rustore.ru/catalog/app/ru.m4bank.softpos.alfaru
+https://www.rustore.ru/catalog/app/ru.lifepay.pos.alfapos
+
+# АО «НСПК» https://www.rustore.ru/catalog/developer/cb96cc4c
+https://www.rustore.ru/catalog/app/ru.nspk.mirpay
+https://www.rustore.ru/catalog/app/ru.nspk.sbpay
+https://www.rustore.ru/catalog/app/ru.nspk.mir.loyalty
+
+# ПАО "Московская Биржа" https://www.rustore.ru/catalog/developer/890dfe6a
+https://www.rustore.ru/catalog/app/com.moex.finuslugi
+
+# VK https://www.rustore.ru/catalog/developer/df91b73f
+https://www.rustore.ru/catalog/app/com.vk.vkvideo
+https://www.rustore.ru/catalog/app/com.vkontakte.android
+https://www.rustore.ru/catalog/app/com.uma.musicvk
+https://www.rustore.ru/catalog/app/ru.ok.android
+https://www.rustore.ru/catalog/app/ru.mail.mailapp
+https://www.rustore.ru/catalog/app/com.allgoritm.youla
+https://www.rustore.ru/catalog/app/com.vk.love
+https://www.rustore.ru/catalog/app/com.vk.im
+https://www.rustore.ru/catalog/app/ru.zen.android
+https://www.rustore.ru/catalog/app/ru.mail.cloud
+https://www.rustore.ru/catalog/app/ru.mail.search.electroscope
+https://www.rustore.ru/catalog/app/live.vkplay.app
+https://www.rustore.ru/catalog/app/ru.ok.dating
+https://www.rustore.ru/catalog/app/com.vk.clips
+https://www.rustore.ru/catalog/app/com.my.mygamesapp
+https://www.rustore.ru/catalog/app/com.vk.mail
+https://www.rustore.ru/catalog/app/ru.vk.hrtek
+https://www.rustore.ru/catalog/app/ru.mail.biz.avocado
+https://www.rustore.ru/catalog/app/ru.mail.my
+https://www.rustore.ru/catalog/app/com.vk.calls
+https://www.rustore.ru/catalog/app/ru.mail.horo.android
+https://www.rustore.ru/catalog/app/games.my.cloud
+https://www.rustore.ru/catalog/app/com.vk.admin
+https://www.rustore.ru/catalog/app/ru.mail.intranet
+https://www.rustore.ru/catalog/app/com.BOGG.ART.VKT
+https://www.rustore.ru/catalog/app/com.bogg.art.vkt
+https://www.rustore.ru/catalog/app/games.my.cloud.tv
+https://www.rustore.ru/catalog/app/com.vk.tv
+
+# ООО "ЯНДЕКС" https://www.rustore.ru/catalog/developer/c184ae7c
+https://www.rustore.ru/catalog/app/ru.yandex.taxi
+https://www.rustore.ru/catalog/app/ru.yandex.weatherplugin
+https://www.rustore.ru/catalog/app/com.yandex.browser
+https://www.rustore.ru/catalog/app/ru.yandex.music
+https://www.rustore.ru/catalog/app/com.yandex.searchapp
+https://www.rustore.ru/catalog/app/ru.kinopoisk
+https://www.rustore.ru/catalog/app/ru.yandex.yandexnavi
+https://www.rustore.ru/catalog/app/com.yandex.aliceapp
+https://www.rustore.ru/catalog/app/ru.beru.android
+https://www.rustore.ru/catalog/app/ru.yandex.yandexmaps
+https://www.rustore.ru/catalog/app/ru.yandex.mail
+https://www.rustore.ru/catalog/app/com.yandex.bank
+https://www.rustore.ru/catalog/app/com.yandex.iot
+https://www.rustore.ru/catalog/app/ru.yandex.taximeter
+https://www.rustore.ru/catalog/app/ru.plus.bookmate
+https://www.rustore.ru/catalog/app/ru.foodfox.client
+https://www.rustore.ru/catalog/app/ru.yandex.translate
+https://www.rustore.ru/catalog/app/ru.yandex.telemost
+https://www.rustore.ru/catalog/app/ru.yandex.searchplugin
+https://www.rustore.ru/catalog/app/com.edadeal.android
+https://www.rustore.ru/catalog/app/ru.yandex.uber
+https://www.rustore.ru/catalog/app/ru.yandex.disk
+https://www.rustore.ru/catalog/app/ru.yandex.key
+https://www.rustore.ru/catalog/app/ru.yandex.androidkeyboard
+https://www.rustore.ru/catalog/app/com.yandex.browser.lite
+https://www.rustore.ru/catalog/app/com.yandex.lavka
+https://www.rustore.ru/catalog/app/ru.yandex.travel
+https://www.rustore.ru/catalog/app/ru.yandex.metro
+https://www.rustore.ru/catalog/app/ru.yandex.games
+https://www.rustore.ru/catalog/app/ru.yandex.mobile.fmradio
+https://www.rustore.ru/catalog/app/com.yandex.mobile.realty
+https://www.rustore.ru/catalog/app/ru.yandex.mobile.gasstations
+https://www.rustore.ru/catalog/app/com.yandex.shedevrus
+https://www.rustore.ru/catalog/app/com.yandex.bluecollars
+https://www.rustore.ru/catalog/app/com.deliveryclub
+https://www.rustore.ru/catalog/app/com.yandex.mobile.drive
+https://www.rustore.ru/catalog/app/com.yandex.tasks.androidapp
+https://www.rustore.ru/catalog/app/com.yandex.yamb
+https://www.rustore.ru/catalog/app/com.yandex.calendar.app
+https://www.rustore.ru/catalog/app/ru.yandex.mobile.afisha
+https://www.rustore.ru/catalog/app/com.zebrainy.skazbuka
+https://www.rustore.ru/catalog/app/jamhome.ru.lktsj
+https://www.rustore.ru/catalog/app/com.chaevieprosto.app
+https://www.rustore.ru/catalog/app/ru.yandex.drawie
+https://www.rustore.ru/catalog/app/ru.yandex.direct
+https://www.rustore.ru/catalog/app/ru.yandex.practicum.flutter_practicum
+https://www.rustore.ru/catalog/app/home.tuvio.com
+https://www.rustore.ru/catalog/app/com.yandex.browser.corp
+https://www.rustore.ru/catalog/app/ru.yandex.readie
+https://www.rustore.ru/catalog/app/com.routeq.app
+https://www.rustore.ru/catalog/app/ru.yandex.market.partner
+https://www.rustore.ru/catalog/app/ru.yandex.mobile.avia
+https://www.rustore.ru/catalog/app/ru.yandex.cloud
+https://www.rustore.ru/catalog/app/ru.yandex.cloud.tracker
+https://www.rustore.ru/catalog/app/ru.foodfox.vendor
+https://www.rustore.ru/catalog/app/com.yandex.corp.tracking.app
+https://www.rustore.ru/catalog/app/ru.yandex.market.pickuppointpro
+https://www.rustore.ru/catalog/app/ru.yandex.travel.extranet
+https://www.rustore.ru/catalog/app/ru.yandex.subtitles
+https://www.rustore.ru/catalog/app/com.yandex.rhythm
+https://www.rustore.ru/catalog/app/ru.yandex_team.calendar_app
+https://www.rustore.ru/catalog/app/ru.yandex.rovertoy.app
+https://www.rustore.ru/catalog/app/ru.mercaux.app
+https://www.rustore.ru/catalog/app/com.reserveonline.tablet.sr.suffix
+https://www.rustore.ru/catalog/app/ru.yandex.smartreserve.aon
+https://www.rustore.ru/catalog/app/home.pragma.com
+https://www.rustore.ru/catalog/app/ru.yandex.rasp
+https://www.rustore.ru/catalog/app/com.yandex.internetometer
+https://www.rustore.ru/catalog/app/ru.kinopoisk.tv
+https://www.rustore.ru/catalog/app/com.yandex.browser.tv
+https://www.rustore.ru/catalog/app/ru.yandex.games.tv
+
+# ООО "Интернет Решения" https://www.rustore.ru/catalog/developer/d91661ae
+https://www.rustore.ru/catalog/app/ru.ozon.app.android
+https://www.rustore.ru/catalog/app/ru.ozon.fintech.finance
+https://www.rustore.ru/catalog/app/ru.ozon.select
+https://www.rustore.ru/catalog/app/ru.ozon.hire
+https://www.rustore.ru/catalog/app/ru.ozon.magistral
+https://www.rustore.ru/catalog/app/ru.ozon.flex
+https://www.rustore.ru/catalog/app/ru.ozon.fintech.sme
+https://www.rustore.ru/catalog/app/travel.ozon.mobile
+https://www.rustore.ru/catalog/app/ru.ozon.profit
+https://www.rustore.ru/catalog/app/ru.ozon.fintech.apvz
+https://www.rustore.ru/catalog/app/ru.ozon.ozon_pvz
+https://www.rustore.ru/catalog/app/ru.ozon.seller_app
+https://www.rustore.ru/catalog/app/ru.ozon.fresh
+https://www.rustore.ru/catalog/app/ru.ozon.maple_app
+https://www.rustore.ru/catalog/app/ru.ozon.chatzone
+https://www.rustore.ru/catalog/app/ru.ozon.tv
+
+# ООО "Вайлдберриз" https://www.rustore.ru/catalog/developer/7a17e879
+https://www.rustore.ru/catalog/app/com.wildberries.ru
+https://www.rustore.ru/catalog/app/ru.wildberries.team
+https://www.rustore.ru/catalog/app/ru.wb.courier
+https://www.rustore.ru/catalog/app/ru.wildberries.wbpayclient
+https://www.rustore.ru/catalog/app/wildberries.business
+https://www.rustore.ru/catalog/app/com.wbpoint.android.prod.release
+https://www.rustore.ru/catalog/app/ru.wb.guru
+https://www.rustore.ru/catalog/app/wb.partners
+https://www.rustore.ru/catalog/app/ru.wb.go
+https://www.rustore.ru/catalog/app/com.wbextdelivery
+https://www.rustore.ru/catalog/app/ru.wildberries.team2
+https://www.rustore.ru/catalog/app/com.wildberries.consultations
+https://www.rustore.ru/catalog/app/ru.wildberries.manager
+https://www.rustore.ru/catalog/app/com.wbstream_app
+https://www.rustore.ru/catalog/app/ru.wb.wband
+https://www.rustore.ru/catalog/app/ru.wildberries.books
+https://www.rustore.ru/catalog/app/com.wildberries.wbkey
+
+# ООО «Маркетплейс» https://www.rustore.ru/catalog/developer/f5e9cb86
+https://www.rustore.ru/catalog/app/ru.megamarket.marketplace
+
+# ПАО "Магнит"
+https://www.rustore.ru/catalog/app/ru.tander.magnit
+https://www.rustore.ru/catalog/app/com.magnit.delivery.courier
+https://www.rustore.ru/catalog/app/com.kazanexpress.ke_app
+https://www.rustore.ru/catalog/app/ru.magnit.hrtest.android
+https://www.rustore.ru/catalog/app/ru.magnit.tag
+https://www.rustore.ru/catalog/app/ru.magnit.mesmag
+https://www.rustore.ru/catalog/app/ru.magnit.vendorapp
+https://www.rustore.ru/catalog/app/com.wms_mm_point.mm_delivery_point
+https://www.rustore.ru/catalog/app/ru.tander.mobile_scout_flutter
+https://www.rustore.ru/catalog/app/ru.compass.tag
+https://www.rustore.ru/catalog/app/ru.magnit.tms.armhde
+
+# Азбука Вкуса https://www.rustore.ru/catalog/developer/hfsrvg2t
+https://www.rustore.ru/catalog/app/ru.av.vkusomania
+
+# АО "ДИКСИ ЮГ" https://www.rustore.ru/catalog/developer/86a91a9d
+https://www.rustore.ru/catalog/app/com.ru.dixy
+https://www.rustore.ru/catalog/app/ru.dixy.personal
+https://www.rustore.ru/catalog/app/ru.dixy.mopod.mobile
+
+# ООО «ИТ ИКС 5 Технологии» https://www.rustore.ru/catalog/developer/9607cd14
+https://www.rustore.ru/catalog/app/ru.pyaterochka.app.browser
+https://www.rustore.ru/catalog/app/club.chizhik
+https://www.rustore.ru/catalog/app/ru.x5.key
+https://www.rustore.ru/catalog/app/ru.x5.omni
+https://www.rustore.ru/catalog/app/ru.x5.wl.slata
+https://www.rustore.ru/catalog/app/ru.x5.foodru.rs
+https://www.rustore.ru/catalog/app/ru.x5.opermax.aura
+https://www.rustore.ru/catalog/app/ru.x5.mfpnew
+https://www.rustore.ru/catalog/app/ru.x5.rooms
+https://www.rustore.ru/catalog/app/ru.x5.mrm_android.personalDevice
+https://www.rustore.ru/catalog/app/ru.x5.mrm_android.personaldevice
+https://www.rustore.ru/catalog/app/ru.x5.wrs2
+https://www.rustore.ru/catalog/app/ru.x5.x5job
+
+# Перекрёсток https://www.rustore.ru/catalog/developer/78c1c8ed
+https://www.rustore.ru/catalog/app/ru.perekrestok.app
+
+# ООО «ОНЛАЙН-ГИПЕРМАРКЕТ» https://www.rustore.ru/catalog/developer/fee1a01d
+https://www.rustore.ru/catalog/app/ru.x5.perekrestok.darkstore
+
+# ООО «МЕТРО Кэш энд Керри» https://www.rustore.ru/catalog/developer/e2562131
+https://www.rustore.ru/catalog/app/www.metro.com
+
+# АО "Вкусвилл" https://www.rustore.ru/catalog/developer/55a9d1b1
+https://www.rustore.ru/catalog/app/ru.vkusvill
+https://www.rustore.ru/catalog/app/com.vkusvill.courier
+https://www.rustore.ru/catalog/app/com.vkusvill.vacancy
+
+# ООО СПАР Миддл Волга https://www.rustore.ru/catalog/developer/66480720
+https://www.rustore.ru/catalog/app/ru.myspar
+https://www.rustore.ru/catalog/app/com.loymax.malinka
+
+# ООО "АШАН" https://www.rustore.ru/catalog/developer/1ae09b8d
+https://www.rustore.ru/catalog/app/ru.myauchan.droid
+
+# ООО «СТД «Петрович» https://www.rustore.ru/catalog/developer/0563e2f5
+https://www.rustore.ru/catalog/app/ru.handh.petrovich
+
+# ООО "ДМ" https://www.rustore.ru/catalog/developer/tzw6jsym
+https://www.rustore.ru/catalog/app/ru.detmir.dmbonus
+https://www.rustore.ru/catalog/app/ru.detmir.dmbonus.zoo
+https://www.rustore.ru/catalog/app/ru.eshe
+https://www.rustore.ru/catalog/app/ru.detmir.staff
+
+# Много Лосося https://www.rustore.ru/catalog/developer/317f8dd4
+https://www.rustore.ru/catalog/app/com.thapl.ml
+
+# Вкусно — и точка https://www.rustore.ru/catalog/developer/cgj0hi1r
+https://www.rustore.ru/catalog/app/com.apegroup.mcdonaldsrussia
+
+# ООО "БУРГЕР РУС" https://www.rustore.ru/catalog/developer/21322dea
+https://www.rustore.ru/catalog/app/ru.burgerking
+
+# ООО "Умное пространство" https://www.rustore.ru/catalog/developer/cc01aebe
+https://www.rustore.ru/catalog/app/ru.sbcs.store
+https://www.rustore.ru/catalog/app/chat.strelka
+
+# Купер https://www.rustore.ru/catalog/developer/95ce3774
+https://www.rustore.ru/catalog/app/ru.instamart
+https://www.rustore.ru/catalog/app/ru.sbmt.shopper
+https://www.rustore.ru/catalog/app/ru.sbmt.rte
+
+# Okko LLC https://www.rustore.ru/catalog/developer/18c4231b
+https://www.rustore.ru/catalog/app/ru.more.play
+https://www.rustore.ru/catalog/app/tv.okko.androidtv
+
+# ООО "Премьер" https://www.rustore.ru/catalog/developer/63ea48cb
+https://www.rustore.ru/catalog/app/gpm.tnt_premier
+https://www.rustore.ru/catalog/app/one.premier.rustoretv
+
+# ООО "РУФОРМ" https://www.rustore.ru/catalog/developer/f384b98f
+https://www.rustore.ru/catalog/app/ru.rutube.app
+https://www.rustore.ru/catalog/app/ru.rutube.RutubeKids
+https://www.rustore.ru/catalog/app/ru.rutube.rutubekids
+https://www.rustore.ru/catalog/app/ru.rutube.studio
+https://www.rustore.ru/catalog/app/ru.rutube.app.tv
+
+# ООО "РИТМ Медиа" https://www.rustore.ru/catalog/developer/d57e19b3
+https://www.rustore.ru/catalog/app/ru.ritmmedia.yappy
+
+# ООО "Иви.ру" https://www.rustore.ru/catalog/developer/25cb8eb5
+https://www.rustore.ru/catalog/app/ru.ivi.client
+
+# ОАО "РЖД" https://www.rustore.ru/catalog/developer/041fcfd1
+https://www.rustore.ru/catalog/app/ru.rzd.pass
+https://www.rustore.ru/catalog/app/ru.rzd.cargolk
+https://www.rustore.ru/catalog/app/ru.rzd.newsdo.skills
+https://www.rustore.ru/catalog/app/com.rzd.eventsrzd
+
+# Общество с ограниченной ответственностью «Новые Туристические Технологии» https://www.rustore.ru/catalog/developer/a5ce9c44
+https://www.rustore.ru/catalog/app/ru.tutu.tutu_emp
+https://www.rustore.ru/catalog/app/ru.tutu.etrains
+
+# ООО "МАКСИМ.ПЛАТФОРМА" https://www.rustore.ru/catalog/app/com.taxsee.taxsee
+https://www.rustore.ru/catalog/app/com.taxsee.taxsee
+https://www.rustore.ru/catalog/app/com.taxsee.driver
+
+# ПАО "Аэрофлот" https://www.rustore.ru/catalog/developer/3ac7c3c3
+https://www.rustore.ru/catalog/app/ru.aeroflot
+
+# Победа
+https://www.rustore.ru/catalog/app/com.appkode.pobeda.aero
+
+# Общество с Ограниченной Ответственностью "Новые транспортные системы"
+https://www.rustore.ru/catalog/app/youdrive.today
+https://www.rustore.ru/catalog/app/ru.fms.app
+
+# Деловые Линии https://www.rustore.ru/catalog/developer/2d29d587
+https://www.rustore.ru/catalog/app/ru.dellin.cabinet
+https://www.rustore.ru/catalog/app/ru.dellin.b2c
+https://www.rustore.ru/catalog/app/ru.dellin.delivery
+
+# ООО "КЕХ еКоммерц" https://www.rustore.ru/catalog/developer/589be38f
+https://www.rustore.ru/catalog/app/com.avito.android
+
+# ООО "ДубльГИС" https://www.rustore.ru/catalog/developer/d32f20ae
+https://www.rustore.ru/catalog/app/ru.dublgis.dgismobile
+https://www.rustore.ru/catalog/app/ru.dublgis.dgismobile4preview
+https://www.rustore.ru/catalog/app/otello.dgis.ru
+
+# АО "Цезарь Сателлит" https://www.rustore.ru/catalog/developer/d7b24ab6
+https://www.rustore.ru/catalog/app/ru.csat.chery
+https://www.rustore.ru/catalog/app/ru.csat.cesarcar
+https://www.rustore.ru/catalog/app/ru.csat.key
+https://www.rustore.ru/catalog/app/ru.csat.changan
+https://www.rustore.ru/catalog/app/ru.csat.cesar.home
+
+# ООО "Хэдхантер" https://www.rustore.ru/catalog/developer/2c6a10fd
+https://www.rustore.ru/catalog/app/ru.hh.android
+https://www.rustore.ru/catalog/app/ru.hh.employer.android
+https://www.rustore.ru/catalog/app/ru.setka
+
+# CDEK Digital https://www.rustore.ru/catalog/developer/2b19ctbj
+https://www.rustore.ru/catalog/app/com.logistic.sdek
+https://www.rustore.ru/catalog/app/ru.cdek.courier
+https://www.rustore.ru/catalog/app/ru.cdek.ek5
+
+# Эвотор https://www.rustore.ru/catalog/developer/1hfk8ulg
+https://www.rustore.ru/catalog/app/ru.evotor.dashboard
+https://www.rustore.ru/catalog/app/ru.evotor.evotormobile
+
+# ООО "Скартел" https://www.rustore.ru/catalog/developer/30001e4c
+https://www.rustore.ru/catalog/app/ru.yota.android
+
+# ПАО МТС https://www.rustore.ru/catalog/developer/94c9fae3
+https://www.rustore.ru/catalog/app/ru.mts.mymts
+https://www.rustore.ru/catalog/app/ru.mts.mtstv
+https://www.rustore.ru/catalog/app/ru.mts.music.android
+https://www.rustore.ru/catalog/app/ru.mts.pay
+https://www.rustore.ru/catalog/app/ru.mts.books.droid
+https://www.rustore.ru/catalog/app/ru.mts.twomem
+https://www.rustore.ru/catalog/app/ru.mts.vdome.resident
+https://www.rustore.ru/catalog/app/ru.mts.mtscode
+https://www.rustore.ru/catalog/app/com.mts.who_calls
+https://www.rustore.ru/catalog/app/ru.mts.live.app
+https://www.rustore.ru/catalog/app/com.goodok.mts
+https://www.rustore.ru/catalog/app/me.membrana.kids.parent.app
+
+# ПАО "ВымпелКом" https://www.rustore.ru/catalog/developer/0e6451b5
+https://www.rustore.ru/catalog/app/ru.beeline.services
+https://www.rustore.ru/catalog/app/ru.beeline.tve.android
+https://www.rustore.ru/catalog/app/ru.beeline.cloud
+https://www.rustore.ru/catalog/app/ru.beeline.messengerx
+https://www.rustore.ru/catalog/app/ru.beeline.beebookreader
+https://www.rustore.ru/catalog/app/com.spbtv.rosing
+https://www.rustore.ru/catalog/app/ru.beeline.dol
+https://www.rustore.ru/catalog/app/ru.beeline.pro
+https://www.rustore.ru/catalog/app/intech.global.com.beeline
+https://www.rustore.ru/catalog/app/ru.beeline.mwpsapp
+https://www.rustore.ru/catalog/app/com.iwedia.ui.beeline.atv
+
+# ООО «Т2 Мобайл» https://www.rustore.ru/catalog/developer/3022b99c
+https://www.rustore.ru/catalog/app/ru.tele2.mytele2
+https://www.rustore.ru/catalog/app/ru.tele2.appseller
+https://www.rustore.ru/catalog/app/ru.tele2.cyberhero.pro
+https://www.rustore.ru/catalog/app/ru.tele2.nasvyzi
+https://www.rustore.ru/catalog/app/tele2.vats
+https://www.rustore.ru/catalog/app/ru.tele2.sms.blocker
+https://www.rustore.ru/catalog/app/ru.t2.wfmapp.prod
+https://www.rustore.ru/catalog/app/ru.tele2.app.wtt
+
+# МегаФон https://www.rustore.ru/catalog/developer/25bd713d
+https://www.rustore.ru/catalog/app/ru.megafon.mlk
+https://www.rustore.ru/catalog/app/com.equeo.megafondraiv
+https://www.rustore.ru/catalog/app/com.megafon.rk
+https://www.rustore.ru/catalog/app/com.megafon.mcca.android.store
+https://www.rustore.ru/catalog/app/ru.megalabs.multifon
+https://www.rustore.ru/catalog/app/com.megafon.maps
+https://www.rustore.ru/catalog/app/ru.netbynet.app.personal_cabinet
+https://www.rustore.ru/catalog/app/ru.systtech.megafon.mobile
+https://www.rustore.ru/catalog/app/com.megafon.kk
+https://www.rustore.ru/catalog/app/ru.megafon.vn.client
+https://www.rustore.ru/catalog/app/com.mcptt
+https://www.rustore.ru/catalog/app/megafon.transport.mobile
+
+# АО Уфанет https://www.rustore.ru/catalog/developer/84de0cfe
+https://www.rustore.ru/catalog/app/ru.ufanet.smarthome
+https://www.rustore.ru/catalog/app/ru.ufanet.myufanet
+https://www.rustore.ru/catalog/app/ru.ufanet.tv
+https://www.rustore.ru/catalog/app/ru.ufanet.iptv
+https://www.rustore.ru/catalog/app/im.micro.dimm.tv.stb.ufanet
+
+# EnerGO https://www.rustore.ru/catalog/developer/5ee0bff9
+https://www.rustore.ru/catalog/app/com.energo.rnapp
+
+# Бери заряд https://www.rustore.ru/catalog/developer/c0ae051a
+https://www.rustore.ru/catalog/app/ru.berizaryad
+
+# Контур
+https://www.rustore.ru/catalog/app/ru.kontur.talk
+https://www.rustore.ru/catalog/app/com.kontur.diadoc2
+https://www.rustore.ru/catalog/app/ru.kontur.connect
+https://www.rustore.ru/catalog/app/ru.kontur.logistics
+https://www.rustore.ru/catalog/app/ru.kontur.signature
+https://www.rustore.ru/catalog/app/com.kontur_elba
+https://www.rustore.ru/catalog/app/ru.kontur.marking
+https://www.rustore.ru/catalog/app/ru.kontur.market
+https://www.rustore.ru/catalog/app/ru.kontur.extern
+https://www.rustore.ru/catalog/app/ru.kontur.ofd
+https://www.rustore.ru/catalog/app/com.kontur.focus
+https://www.rustore.ru/catalog/app/ru.kontur.admin
+https://www.rustore.ru/catalog/app/ru.kontur.mercury
+https://www.rustore.ru/catalog/app/ru.kontur.farma
+https://www.rustore.ru/catalog/app/ru.kontur.hotel
+
+# Центр развития перспективных технологий https://www.rustore.ru/catalog/developer/692ed825
+https://www.rustore.ru/catalog/app/ru.crptech.mark
+https://www.rustore.ru/catalog/app/ru.crpt.localmodule
+https://www.rustore.ru/catalog/app/ru.crptech.b2bmark
+https://www.rustore.ru/catalog/app/ru.crptech.foiv
+https://www.rustore.ru/catalog/app/ru.crptech.pharma_scanner
+
+# ЭР-Телеком Холдинг https://www.rustore.ru/catalog/developer/07c20ddf
+https://www.rustore.ru/catalog/app/com.ertelecom.agent
+https://www.rustore.ru/catalog/app/com.ertelecom.smarthome
+https://www.rustore.ru/catalog/app/com.ertelecom.domrutv
+https://www.rustore.ru/catalog/app/ru.cctvb2b.dom.app
+https://www.rustore.ru/catalog/app/com.b2bdomru.domrubusiness
+https://www.rustore.ru/catalog/app/com.ertelecom.vats
+https://www.rustore.ru/catalog/app/com.ertelecom.domrutvstb
+

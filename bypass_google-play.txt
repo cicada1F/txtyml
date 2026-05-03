@@ -1,0 +1,508 @@
+# Минцифры России https://play.google.com/store/apps/dev?id=7040530283788474945
+https://play.google.com/store/apps/details?id=ru.rostel
+https://play.google.com/store/apps/details?id=ru.gosuslugi.goskey
+https://play.google.com/store/apps/details?id=ru.gosuslugi.migrant
+https://play.google.com/store/apps/details?id=ru.gosuslugi.auto
+https://play.google.com/store/apps/details?id=ru.gosuslugi.school
+https://play.google.com/store/apps/details?id=ru.gosuslugi.culture
+https://play.google.com/store/apps/details?id=ru.fanid
+https://play.google.com/store/apps/details?id=team.rtds.checkcontrol
+https://play.google.com/store/apps/details?id=ru.gosuslugi.volunteer
+https://play.google.com/store/apps/details?id=com.pobeda.anniversary
+https://play.google.com/store/apps/details?id=ru.rostel.plp3
+https://play.google.com/store/apps/details?id=ru.gosuslugi.pos.executor
+https://play.google.com/store/apps/details?id=ru.gosuslugi.pos
+
+# JSC «CBT» https://play.google.com/store/apps/developer?id=JSC+%C2%ABCBT%C2%BB
+https://play.google.com/store/apps/details?id=ru.rtlabs.mobile.ebs.gosuslugi.android
+
+# ГКУ ИАЦ в сфере здравоохранения города Москвы https://play.google.com/store/apps/developer?id=%D0%93%D0%9A%D0%A3+%D0%98%D0%90%D0%A6+%D0%B2+%D1%81%D1%84%D0%B5%D1%80%D0%B5+%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B
+https://play.google.com/store/apps/details?id=com.programmisty.emiasapp
+https://play.google.com/store/apps/details?id=ru.emias.telemed
+https://play.google.com/store/apps/details?id=tech.clink.emias.emiasqrcode
+
+# Почта России https://play.google.com/store/apps/developer?id=%D0%9F%D0%BE%D1%87%D1%82%D0%B0+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&hl=ru
+https://play.google.com/store/apps/details?id=com.octopod.russianpost.client.android
+https://play.google.com/store/apps/details?id=ru.pochta.lkul
+https://play.google.com/store/apps/details?id=ru.russianpost.pechkin
+
+# Оператор информационной системы https://play.google.com/store/apps/dev?id=8214028892479891108
+https://play.google.com/store/apps/details?id=ru.sigma.gisgkh
+
+# Центр развития перспективных технологий https://play.google.com/store/apps/developer?id=%D0%A6%D0%B5%D0%BD%D1%82%D1%80+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F+%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9
+https://play.google.com/store/apps/details?id=ru.crptech.mark
+https://play.google.com/store/apps/details?id=ru.crptech.b2bmark
+https://play.google.com/store/apps/details?id=ru.crptech.foiv
+https://play.google.com/store/apps/details?id=ru.crptech.pharma_scanner
+
+# АО "РОСАТОМ ЭНЕРГОСБЫТ" https://play.google.com/store/apps/dev?id=5569337900603624882
+https://play.google.com/store/apps/details?id=ru.atomsbt.mobile
+
+# ПАО «Россети» https://play.google.com/store/apps/dev?id=7940999284924068626
+https://play.google.com/store/apps/details?id=ru.rosseti
+https://play.google.com/store/apps/details?id=ru.rosseti.thebutton
+
+# АО "Росагролизинг" https://play.google.com/store/apps/developer?id=%D0%90%D0%9E+%22%D0%A0%D0%BE%D1%81%D0%B0%D0%B3%D1%80%D0%BE%D0%BB%D0%B8%D0%B7%D0%B8%D0%BD%D0%B3%22
+https://play.google.com/store/apps/details?id=ru.rosagroleasing.mobile
+
+# VKL https://play.google.com/store/apps/developer?id=VKL
+https://play.google.com/store/apps/details?id=com.vkontakte.android
+https://play.google.com/store/apps/details?id=ru.ok.android
+https://play.google.com/store/apps/details?id=ru.mail.mailapp
+https://play.google.com/store/apps/details?id=com.uma.musicvk
+https://play.google.com/store/apps/details?id=ru.mail.cloud
+https://play.google.com/store/apps/details?id=com.vk.love
+https://play.google.com/store/apps/details?id=com.vk.mail
+
+# VK LLC https://play.google.com/store/apps/dev?id=5118391565434634824
+https://play.google.com/store/apps/details?id=com.vk.vkvideo
+https://play.google.com/store/apps/details?id=com.vk.tv
+https://play.google.com/store/apps/details?id=ru.mail.search.electroscope
+https://play.google.com/store/apps/details?id=live.vkplay.app
+https://play.google.com/store/apps/details?id=com.vk.im
+https://play.google.com/store/apps/details?id=com.allgoritm.youla
+https://play.google.com/store/apps/details?id=ru.zen.android
+https://play.google.com/store/apps/details?id=ru.mail.my
+https://play.google.com/store/apps/details?id=com.vk.clips
+https://play.google.com/store/apps/details?id=games.my.cloud
+https://play.google.com/store/apps/details?id=ru.mail.biz.avocado
+https://play.google.com/store/apps/details?id=com.vk.calls
+https://play.google.com/store/apps/details?id=games.my.cloud.tv
+https://play.google.com/store/apps/details?id=com.vk.admin
+https://play.google.com/store/apps/details?id=com.vk.magiyaznanii
+https://play.google.com/store/apps/details?id=ru.vk.hrtek
+https://play.google.com/store/apps/details?id=com.my.mygamesapp
+https://play.google.com/store/apps/details?id=ru.mail.games.Durak
+https://play.google.com/store/apps/details?id=ru.mail.games.durak
+https://play.google.com/store/apps/details?id=com.edugram
+https://play.google.com/store/apps/details?id=com.my.target.publisher
+https://play.google.com/store/apps/details?id=ru.ok.androidtv
+https://play.google.com/store/apps/details?id=ru.mail.android.dmrg.parapa
+https://play.google.com/store/apps/details?id=air.ru.mail.games.pokerarena
+
+# MAX LLC https://play.google.com/store/apps/dev?id=6807810570164441073
+https://play.google.com/store/apps/details?id=ru.oneme.app
+
+# KRONOS LLC https://play.google.com/store/apps/developer?id=KRONOS,+LLC
+https://play.google.com/store/apps/details?id=ru.yandex.uber
+https://play.google.com/store/apps/details?id=ru.yandex.vezet
+
+# Direct Cursus Computer Systems Trading LLC https://play.google.com/store/apps/dev?id=7231550417352417242
+https://play.google.com/store/apps/details?id=com.yandex.aliceapp
+https://play.google.com/store/apps/details?id=ru.yandex.music
+https://play.google.com/store/apps/details?id=com.yandex.searchapp
+https://play.google.com/store/apps/details?id=com.yandex.browser
+https://play.google.com/store/apps/details?id=ru.kinopoisk
+https://play.google.com/store/apps/details?id=ru.yandex.mail
+https://play.google.com/store/apps/details?id=ru.yandex.telemost
+https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps
+https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin
+https://play.google.com/store/apps/details?id=ru.yandex.yandexnavi
+https://play.google.com/store/apps/details?id=com.yandex.iot
+https://play.google.com/store/apps/details?id=ru.plus.bookmate
+https://play.google.com/store/apps/details?id=ru.kinopoisk.tv
+https://play.google.com/store/apps/details?id=ru.yandex.disk
+https://play.google.com/store/apps/details?id=ru.yandex.travel
+https://play.google.com/store/apps/details?id=ru.yandex.games
+https://play.google.com/store/apps/details?id=com.yandex.browser.tv
+https://play.google.com/store/apps/details?id=com.yandex.yamb
+https://play.google.com/store/apps/details?id=ru.yandex.translate
+https://play.google.com/store/apps/details?id=com.yandex.shedevrus
+https://play.google.com/store/apps/details?id=ru.yandex.rasp
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.fmradio
+https://play.google.com/store/apps/details?id=ru.yandex.searchplugin
+https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard
+https://play.google.com/store/apps/details?id=ru.yandex.key
+https://play.google.com/store/apps/details?id=com.zebrainy.skazbuka
+https://play.google.com/store/apps/details?id=ru.yandex.metro
+https://play.google.com/store/apps/details?id=ru.yandex.drawie
+https://play.google.com/store/apps/details?id=com.yandex.browser.beta
+https://play.google.com/store/apps/details?id=ru.yandex.direct
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.afisha
+https://play.google.com/store/apps/details?id=com.yandex.browser.lite
+https://play.google.com/store/apps/details?id=com.yandex.mobile.realty
+https://play.google.com/store/apps/details?id=com.yandex.tasks.androidapp
+https://play.google.com/store/apps/details?id=jamhome.ru.lktsj
+https://play.google.com/store/apps/details?id=com.yandex.browser.alpha
+https://play.google.com/store/apps/details?id=com.yandex.searchapp.beta
+https://play.google.com/store/apps/details?id=ru.yandex.readie
+https://play.google.com/store/apps/details?id=com.yandex.internetometer
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.arenda
+https://play.google.com/store/apps/details?id=com.yandex.calendar.app
+https://play.google.com/store/apps/details?id=com.routeq.app
+https://play.google.com/store/apps/details?id=com.yandex.uslugi.clients
+https://play.google.com/store/apps/details?id=com.yandex.uslugi
+https://play.google.com/store/apps/details?id=ru.yandex.searchplugin.beta
+https://play.google.com/store/apps/details?id=com.yandex.courier
+https://play.google.com/store/apps/details?id=com.yandex.browser.corp
+https://play.google.com/store/apps/details?id=ru.yandex.practicum.flutter_practicum
+https://play.google.com/store/apps/details?id=com.yandex.yamb.canary
+https://play.google.com/store/apps/details?id=ru.yandex.cloud.tracker
+https://play.google.com/store/apps/details?id=com.yandex.rhythm
+https://play.google.com/store/apps/details?id=com.yango.maps.android
+https://play.google.com/store/apps/details?id=ru.yandex.cloud
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.avia
+https://play.google.com/store/apps/details?id=ru.yandex.subtitles
+https://play.google.com/store/apps/details?id=ru.yandex.travel.extranet
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.ticketsystem.scanner
+https://play.google.com/store/apps/details?id=ru.yandex.disk.beta
+https://play.google.com/store/apps/details?id=ru.yandex_team.calendar_app
+https://play.google.com/store/apps/details?id=ru.yandex.mail.beta
+https://play.google.com/store/apps/details?id=com.yandex.maps.mrcpublic
+https://play.google.com/store/apps/details?id=ru.domyland.worker
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.direct
+https://play.google.com/store/apps/details?id=ru.yandex.nokiasystemservice
+https://play.google.com/store/apps/details?id=ru.yandex.practicum.twa
+https://play.google.com/store/apps/details?id=yandex.auto.mobile
+https://play.google.com/store/apps/details?id=com.yandex.divkit.demo
+https://play.google.com/store/apps/details?id=com.yandex.divpro.viewer
+
+# Mikromobilnost LLC Belgrade https://play.google.com/store/apps/developer?id=Mikromobilnost+LLC+Belgrade
+https://play.google.com/store/apps/details?id=ru.yandex.taxi
+https://play.google.com/store/apps/details?id=ru.beru.android
+https://play.google.com/store/apps/details?id=ru.foodfox.client
+https://play.google.com/store/apps/details?id=ru.yandex.taximeter
+https://play.google.com/store/apps/details?id=com.yandex.lavka
+https://play.google.com/store/apps/details?id=com.deliveryclub
+https://play.google.com/store/apps/details?id=ru.yandex.mobile.gasstations
+https://play.google.com/store/apps/details?id=ru.yandex.taximeter.beta
+https://play.google.com/store/apps/details?id=com.yandex.bluecollars
+https://play.google.com/store/apps/details?id=com.yandex.mobile.drive
+https://play.google.com/store/apps/details?id=ru.foodfox.vendor
+https://play.google.com/store/apps/details?id=ru.yandex.market.partner
+https://play.google.com/store/apps/details?id=ru.vseapteki
+https://play.google.com/store/apps/details?id=com.chaevieprosto.app
+https://play.google.com/store/apps/details?id=ru.berizaryad
+https://play.google.com/store/apps/details?id=com.uznewmax.theflash
+https://play.google.com/store/apps/details?id=ru.yandex.smartreserve
+https://play.google.com/store/apps/details?id=ru.yandex.market.pickuppointpro
+https://play.google.com/store/apps/details?id=am.menu.app
+https://play.google.com/store/apps/details?id=com.smena.demand
+https://play.google.com/store/apps/details?id=nambafood.nambaapps.kg.food
+https://play.google.com/store/apps/details?id=com.pink.taxi
+https://play.google.com/store/apps/details?id=ru.foodfox.courier.debug.releaseserver
+https://play.google.com/store/apps/details?id=com.bluecollars.grafik
+https://play.google.com/store/apps/details?id=com.deliveryclub.stock
+https://play.google.com/store/apps/details?id=ru.yandex.market.tpl.carrier
+https://play.google.com/store/apps/details?id=com.yandex.corp.tracking.app
+https://play.google.com/store/apps/details?id=com.reserveonline.tablet
+https://play.google.com/store/apps/details?id=ru.yandex.mile
+https://play.google.com/store/apps/details?id=ru.yandex.rovertoy.app
+https://play.google.com/store/apps/details?id=ru.yandex.yandex_bike
+
+# Internet Solutions LLC https://play.google.com/store/apps/dev?id=6341061843515923110
+https://play.google.com/store/apps/details?id=ru.ozon.app.android
+https://play.google.com/store/apps/details?id=ru.ozon.select
+https://play.google.com/store/apps/details?id=ru.ozon.hire
+https://play.google.com/store/apps/details?id=ru.ozon.seller_app
+https://play.google.com/store/apps/details?id=ru.ozon.ozon_pvz
+https://play.google.com/store/apps/details?id=ru.ozon.flex
+https://play.google.com/store/apps/details?id=travel.ozon.mobile
+https://play.google.com/store/apps/details?id=ru.ozon.magistral
+https://play.google.com/store/apps/details?id=ru.ozon.fresh
+https://play.google.com/store/apps/details?id=ru.ozon.profit
+https://play.google.com/store/apps/details?id=ru.ozon.maple_app
+https://play.google.com/store/apps/details?id=ru.ozon.chatzone
+
+# Wildberries LLC https://play.google.com/store/apps/developer?id=Wildberries+LLC
+https://play.google.com/store/apps/details?id=com.wildberries.ru
+https://play.google.com/store/apps/details?id=ru.wildberries.team
+https://play.google.com/store/apps/details?id=ru.wb.courier
+https://play.google.com/store/apps/details?id=wb.partners
+https://play.google.com/store/apps/details?id=com.wbpoint.android.prod.release
+https://play.google.com/store/apps/details?id=ru.wb.externaldriver
+https://play.google.com/store/apps/details?id=com.wbextdelivery
+https://play.google.com/store/apps/details?id=ru.wildberries.wbpayclient
+https://play.google.com/store/apps/details?id=com.wildberries.travel
+https://play.google.com/store/apps/details?id=com.wbstream_app
+https://play.google.com/store/apps/details?id=com.wildberries.portal
+https://play.google.com/store/apps/details?id=ru.wildberries.manager
+https://play.google.com/store/apps/details?id=com.wildberries.consultations
+https://play.google.com/store/apps/details?id=ru.ftc.faktura.jur.wildberries
+https://play.google.com/store/apps/details?id=com.wb.courier.wb_courier_client
+https://play.google.com/store/apps/details?id=ru.wb.go
+https://play.google.com/store/apps/details?id=rocketchat.wb.reactnative
+
+# АО Тандер https://play.google.com/store/apps/developer?id=%D0%90%D0%9E+%D0%A2%D0%B0%D0%BD%D0%B4%D0%B5%D1%80
+https://play.google.com/store/apps/details?id=ru.tander.magnit
+https://play.google.com/store/apps/details?id=ru.magnit.hrtest.android
+https://play.google.com/store/apps/details?id=com.magnit.delivery.courier
+https://play.google.com/store/apps/details?id=ru.magnit.tag
+https://play.google.com/store/apps/details?id=ru.magnit.vendorapp
+https://play.google.com/store/apps/details?id=ru.tander.magnitmagnum
+https://play.google.com/store/apps/details?id=ru.magnit.mmessenger
+https://play.google.com/store/apps/details?id=ru.magnit.tms.armhde
+
+# ООО "Городской Супермаркет" https://play.google.com/store/apps/developer?id=%D0%9E%D0%9E%D0%9E+%22%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%22
+https://play.google.com/store/apps/details?id=ru.av.vkusomania
+
+# Дикси https://play.google.com/store/apps/developer?id=%D0%94%D0%B8%D0%BA%D1%81%D0%B8
+https://play.google.com/store/apps/details?id=com.ru.dixy
+https://play.google.com/store/apps/details?id=ru.dixy.personal
+
+# Пятёрочка https://play.google.com/store/apps/developer?id=%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0
+https://play.google.com/store/apps/details?id=ru.pyaterochka.app.browser
+https://play.google.com/store/apps/details?id=com.slata.moyaslata
+https://play.google.com/store/apps/details?id=com.slata.moyahlebsol
+https://play.google.com/store/apps/details?id=ru.x5.wl.slata
+
+
+# X5 Tech https://play.google.com/store/apps/developer?id=X5+Tech
+https://play.google.com/store/apps/details?id=ru.perekrestok.app
+https://play.google.com/store/apps/details?id=club.chizhik
+https://play.google.com/store/apps/details?id=ru.x5.sphere
+https://play.google.com/store/apps/details?id=ru.x5.rooms
+https://play.google.com/store/apps/details?id=ru.x5.perekrestok.darkstore
+https://play.google.com/store/apps/details?id=ru.x5.key
+https://play.google.com/store/apps/details?id=ru.x5.opermax.aura
+https://play.google.com/store/apps/details?id=ru.x5.mrmdmdevincidents.external
+https://play.google.com/store/apps/details?id=ru.x5.wrs2
+https://play.google.com/store/apps/details?id=com.x5.viruchaem
+https://play.google.com/store/apps/details?id=ru.x5.mfpnew
+https://play.google.com/store/apps/details?id=ru.x5.mywork
+https://play.google.com/store/apps/details?id=ru.x5.x5job
+https://play.google.com/store/apps/details?id=ru.ispringlearn.x5fk
+https://play.google.com/store/apps/details?id=ru.x5.mrm_android.personalDevice
+https://play.google.com/store/apps/details?id=ru.x5.mrm_android.personaldevice
+https://play.google.com/store/apps/details?id=ru.x5.myservices
+https://play.google.com/store/apps/details?id=com.x5.toro_app
+https://play.google.com/store/apps/details?id=ru.x5.mfpnew.demo
+https://play.google.com/store/apps/details?id=com.x5.realestate
+https://play.google.com/store/apps/details?id=ru.x5.futurenight
+
+# METRO Digital GmbH https://play.google.com/store/apps/dev?id=4744329397609961079
+https://play.google.com/store/apps/details?id=de.metro.alex.customer.digitalcard.metro
+https://play.google.com/store/apps/details?id=net.metrosystems.followMETRO
+https://play.google.com/store/apps/details?id=net.metrosystems.followmetro
+
+# VkusVill https://play.google.com/store/apps/developer?id=VkusVill
+https://play.google.com/store/apps/details?id=ru.vkusvill
+https://play.google.com/store/apps/details?id=com.vkusvill.courier
+https://play.google.com/store/apps/details?id=com.vkusvill.znaniya
+https://play.google.com/store/apps/details?id=com.vkusvill.vacancy
+https://play.google.com/store/apps/details?id=com.vkusvill.vkusmil
+https://play.google.com/store/apps/details?id=com.vkusvill.resto
+
+# SPAR Middle Volga https://play.google.com/store/apps/developer?id=SPAR+Middle+Volga
+https://play.google.com/store/apps/details?id=ru.myspar
+
+# Ашан Россия https://play.google.com/store/apps/developer?id=%D0%90%D1%88%D0%B0%D0%BD+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+https://play.google.com/store/apps/details?id=ru.myauchan.droid
+
+# Petrovich https://play.google.com/store/apps/developer?id=Petrovich
+https://play.google.com/store/apps/details?id=ru.handh.petrovich
+https://play.google.com/store/apps/details?id=ru.petrovich.bro
+
+# ДМ-Тех https://play.google.com/store/apps/dev?id=6227141248401653504
+https://play.google.com/store/apps/details?id=ru.detmir.dmbonus
+https://play.google.com/store/apps/details?id=ru.detmir.dmbonus.zoo
+https://play.google.com/store/apps/details?id=ru.eshe
+https://play.google.com/store/apps/details?id=ru.detmir.staff
+https://play.google.com/store/apps/details?id=ru.detmir.dmbonus.by
+https://play.google.com/store/apps/details?id=ru.detmir.dmbonus.kz
+
+# Mnogo lososya https://play.google.com/store/apps/dev?id=4785636063383848995
+https://play.google.com/store/apps/details?id=com.thapl.ml
+https://play.google.com/store/apps/details?id=com.equeo.more_salmon
+https://play.google.com/store/apps/details?id=com.stemmy287.MPMClient
+https://play.google.com/store/apps/details?id=com.stemmy287.mpmclient
+
+# ООО «Система ПБО»
+https://play.google.com/store/apps/details?id=com.apegroup.mcdonaldsrussia
+
+# Burger-King https://play.google.com/store/apps/developer?id=Burger-King
+https://play.google.com/store/apps/details?id=ru.burgerking
+https://play.google.com/store/apps/details?id=ru.burgerking.courierapp
+
+# Smart Space LLC https://play.google.com/store/apps/developer?id=Smart+Space+LLC
+https://play.google.com/store/apps/details?id=ru.sbcs.store
+https://play.google.com/store/apps/details?id=ru.samokat.dark.store
+https://play.google.com/store/apps/details?id=ru.samokat.uznaipro
+https://play.google.com/store/apps/details?id=ru.samokat.amm
+https://play.google.com/store/apps/details?id=ru.samokat.dsa
+https://play.google.com/store/apps/details?id=ru.samokat.store
+https://play.google.com/store/apps/details?id=ru.samokat.darkstore
+
+# SMMD LLC https://play.google.com/store/apps/dev?id=5486548436581387188
+https://play.google.com/store/apps/details?id=ru.smmd.superdelivery
+
+# Okko LLC https://play.google.com/store/apps/dev?id=8987579519005359038
+https://play.google.com/store/apps/details?id=ru.more.play
+
+# ООО "Премьер" https://play.google.com/store/apps/developer?id=%D0%9E%D0%9E%D0%9E+%22%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%22
+https://play.google.com/store/apps/details?id=gpm.tnt_premier
+
+# RUTUBE https://play.google.com/store/apps/developer?id=RUTUBE
+https://play.google.com/store/apps/details?id=rtb.mobile.android
+https://play.google.com/store/apps/details?id=ru.rtb.studio
+
+# RITM Media LLC https://play.google.com/store/apps/dev?id=7489363861485136140
+https://play.google.com/store/apps/details?id=ru.ritmmedia.yappy
+
+# ivi.ru https://play.google.com/store/apps/dev?id=7570386264468274868
+https://play.google.com/store/apps/details?id=ru.ivi.client
+
+# ОАО "РЖД" https://play.google.com/store/apps/developer?id=%D0%9E%D0%90%D0%9E+%22%D0%A0%D0%96%D0%94%22
+https://play.google.com/store/apps/details?id=ru.rzd.pass
+
+# OOO NTT https://play.google.com/store/apps/dev?id=8624234617617281862
+https://play.google.com/store/apps/details?id=ru.tutu.tutu_emp
+https://play.google.com/store/apps/details?id=ru.tutu.etrains
+https://play.google.com/store/apps/details?id=ru.tutu.avia
+https://play.google.com/store/apps/details?id=ru.tutu.trainrusapp
+https://play.google.com/store/apps/details?id=ru.tutu.tutu_bus
+https://play.google.com/store/apps/details?id=ru.tutu.tours
+
+# PT. SITO https://play.google.com/store/apps/developer?id=PT.+SITO
+https://play.google.com/store/apps/details?id=com.taxsee.taxsee
+https://play.google.com/store/apps/details?id=com.taxsee.driver
+https://play.google.com/store/apps/details?id=com.maxim.internal
+
+# Ситидрайв Разработка https://play.google.com/store/search?q=%D1%81%D0%B8%D1%82%D0%B8%D0%B4%D1%80%D0%B0%D0%B9%D0%B2&c=apps
+https://play.google.com/store/apps/details?id=youdrive.today
+
+# Деловые Линии https://play.google.com/store/search?q=%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%9B%D0%B8%D0%BD%D0%B8%D0%B8&c=apps
+https://play.google.com/store/apps/details?id=ru.dellin.cabinet
+https://play.google.com/store/apps/details?id=ru.dellin.b2c
+https://play.google.com/store/apps/details?id=ru.dellin.carfinder.android
+
+# OOO OLT https://play.google.com/store/apps/dev?id=5716068812839479649
+https://play.google.com/store/apps/details?id=com.ticket_train
+
+# 2GIS https://play.google.com/store/apps/dev?id=5475543677782911277
+https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile
+https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile4preview
+
+# Winner Satellite https://play.google.com/store/apps/dev?id=5487976532714192789
+https://play.google.com/store/apps/details?id=ru.gismeteo.gismeteo
+
+# HS_Programming https://play.google.com/store/apps/developer?id=HS_Programming
+https://play.google.com/store/apps/details?id=com.delivery.cmd_app
+https://play.google.com/store/apps/details?id=com.anonymous.cmddeliveryreactnative
+https://play.google.com/store/apps/details?id=com.smartcoding.demo
+https://play.google.com/store/apps/details?id=com.puzzle_hs.game
+
+# АО Цезарь Сателлит https://play.google.com/store/apps/developer?id=%D0%90%D0%9E++%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8C+%D0%A1%D0%B0%D1%82%D0%B5%D0%BB%D0%BB%D0%B8%D1%82
+https://play.google.com/store/apps/details?id=ru.csat.key
+https://play.google.com/store/apps/details?id=ru.csat.cesarcar
+https://play.google.com/store/apps/details?id=ru.csat.chery
+https://play.google.com/store/apps/details?id=ru.csat.bestune
+https://play.google.com/store/apps/details?id=ru.csat.cesar.home
+https://play.google.com/store/apps/details?id=ru.csat.geely
+https://play.google.com/store/apps/details?id=ru.csat.cesarposition
+https://play.google.com/store/apps/details?id=ru.csat.changan
+https://play.google.com/store/apps/details?id=ru.csat.pango
+https://play.google.com/store/apps/details?id=ru.csat.exeed
+https://play.google.com/store/apps/details?id=ru.csat.newcar
+https://play.google.com/store/apps/details?id=ru.csat.cesarlogistic
+https://play.google.com/store/apps/details?id=ru.csat.perpetuum
+
+# HeadHunter https://play.google.com/store/apps/dev?id=8105503877363900676
+https://play.google.com/store/apps/details?id=ru.hh.android
+https://play.google.com/store/apps/details?id=ru.zarplata
+https://play.google.com/store/apps/details?id=ru.hh.employer.android
+https://play.google.com/store/apps/details?id=com.setka
+https://play.google.com/store/apps/details?id=by.tut.jobs.employer.android
+
+# ООО "Компания "ЭЛТА" https://play.google.com/store/apps/developer?id=%D0%9E%D0%9E%D0%9E+%22%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F+%22%D0%AD%D0%9B%D0%A2%D0%90%22
+https://play.google.com/store/apps/details?id=com.elta.android
+
+# CDEK Mobile https://play.google.com/store/apps/developer?id=CDEK+Mobile
+https://play.google.com/store/apps/details?id=com.logistic.sdek
+https://play.google.com/store/apps/details?id=ru.cdek.ek5
+https://play.google.com/store/apps/details?id=ru.cdek.courier
+
+# Эвотор https://play.google.com/store/apps/developer?id=%D0%AD%D0%B2%D0%BE%D1%82%D0%BE%D1%80
+https://play.google.com/store/apps/details?id=ru.evotor.dashboard
+https://play.google.com/store/apps/details?id=ru.evotor.evotormobile
+
+# MTS Pjsc https://play.google.com/store/apps/dev?id=8509777363268157385
+https://play.google.com/store/apps/details?id=ru.mts.mymts
+https://play.google.com/store/apps/details?id=ru.mts.mtstv
+https://play.google.com/store/apps/details?id=ru.mts.music.android
+https://play.google.com/store/apps/details?id=ru.mts.books.droid
+https://play.google.com/store/apps/details?id=ru.mts.fogplay
+https://play.google.com/store/apps/details?id=com.goodok.mts
+https://play.google.com/store/apps/details?id=ru.mts.twomem
+https://play.google.com/store/apps/details?id=com.mts.who_calls
+https://play.google.com/store/apps/details?id=ru.mts.live.app
+https://play.google.com/store/apps/details?id=ru.mts.remoteplay
+https://play.google.com/store/apps/details?id=ru.mts.mtscode
+https://play.google.com/store/apps/details?id=ru.mts.smarthome
+https://play.google.com/store/apps/details?id=me.membrana.kids.parent.app
+
+# ПАО "ВымпелКом" https://play.google.com/store/apps/dev?id=7529103316261549349
+https://play.google.com/store/apps/details?id=ru.beeline.services
+https://play.google.com/store/apps/details?id=ru.beeline.tve.android
+https://play.google.com/store/apps/details?id=ru.beeline.cloud
+https://play.google.com/store/apps/details?id=ru.beeline.beebookreader
+https://play.google.com/store/apps/details?id=com.spbtv.rosing
+https://play.google.com/store/apps/details?id=ru.beeline.messengerx
+https://play.google.com/store/apps/details?id=intech.global.com.beeline
+https://play.google.com/store/apps/details?id=ru.beeline.pro
+https://play.google.com/store/apps/details?id=ru.beeline.dol
+https://play.google.com/store/apps/details?id=ru.beeline.surveillance.b2b
+https://play.google.com/store/apps/details?id=ru.beeline.mwpsapp
+https://play.google.com/store/apps/details?id=ru.beeline.beetrack
+https://play.google.com/store/apps/details?id=ru.beeline.tracker.transport
+https://play.google.com/store/apps/details?id=ru.beeline.tracker.monitoring
+https://play.google.com/store/apps/details?id=ru.beeline.beetrack.tracker
+
+# t2 https://play.google.com/store/apps/dev?id=4672619178412368194
+https://play.google.com/store/apps/details?id=ru.tele2.mytele2
+https://play.google.com/store/apps/details?id=ru.tele2.cyberhero
+https://play.google.com/store/apps/details?id=tele2.goodok.ru
+https://play.google.com/store/apps/details?id=tele2.vats
+https://play.google.com/store/apps/details?id=ru.tele2.app.tracker
+https://play.google.com/store/apps/details?id=ru.tele2.sms.blocker
+https://play.google.com/store/apps/details?id=ru.tele2.app.disk
+https://play.google.com/store/apps/details?id=ru.tele2.app.tasksmanager
+
+# АО Уфанет https://play.google.com/store/apps/developer?id=%D0%90%D0%9E+%D0%A3%D1%84%D0%B0%D0%BD%D0%B5%D1%82
+https://play.google.com/store/apps/details?id=ru.ufanet.smarthome
+https://play.google.com/store/apps/details?id=ru.ufanet.myufanet
+https://play.google.com/store/apps/details?id=ru.ufanet.iptv
+https://play.google.com/store/apps/details?id=ru.ufanet.tv
+https://play.google.com/store/apps/details?id=ru.ufanet.businessufanet
+https://play.google.com/store/apps/details?id=im.micro.dimm.tv.stb.ufanet
+
+# ENERGO TECHNOLOGIES LLC. https://play.google.com/store/apps/developer?id=ENERGO+TECHNOLOGIES+LLC.
+https://play.google.com/store/apps/details?id=com.energo.rnapp
+
+# СКБ Контур https://play.google.com/store/apps/dev?id=4848911796475635929
+https://play.google.com/store/apps/details?id=ru.kontur.talk
+https://play.google.com/store/apps/details?id=com.kontur.diadoc2
+https://play.google.com/store/apps/details?id=ru.kontur.logistics
+https://play.google.com/store/apps/details?id=ru.kontur.signature
+https://play.google.com/store/apps/details?id=ru.kontur.connect
+https://play.google.com/store/apps/details?id=com.kontur_elba
+https://play.google.com/store/apps/details?id=ru.kontur.marking
+https://play.google.com/store/apps/details?id=ru.kontur.extern
+https://play.google.com/store/apps/details?id=ru.kontur.market
+https://play.google.com/store/apps/details?id=com.kontur.focus
+https://play.google.com/store/apps/details?id=ru.kontur.hotel
+https://play.google.com/store/apps/details?id=ru.kontur.admin
+https://play.google.com/store/apps/details?id=ru.kontur.ofd
+https://play.google.com/store/apps/details?id=ru.kontur.cashbox
+https://play.google.com/store/apps/details?id=ru.kontur.farma
+https://play.google.com/store/apps/details?id=ru.kontur.mercury
+
+# ЭР-Телеком Холдинг https://play.google.com/store/apps/dev?id=5538828227300314489
+https://play.google.com/store/apps/details?id=com.ertelecom.agent
+https://play.google.com/store/apps/details?id=com.ertelecom.smarthome
+https://play.google.com/store/apps/details?id=com.ertelecom.domrutvstb
+https://play.google.com/store/apps/details?id=com.ertelecom.domrutv
+https://play.google.com/store/apps/details?id=com.domru.videomonitoring
+https://play.google.com/store/apps/details?id=com.ertelecom.movix
+https://play.google.com/store/apps/details?id=com.b2bdomru.domrubusiness
+https://play.google.com/store/apps/details?id=ru.cctvb2b.dom.app
+https://play.google.com/store/apps/details?id=ru.cctvb2b.tcenter.app
+https://play.google.com/store/apps/details?id=team.r1.employee
+https://play.google.com/store/apps/details?id=ru.erth.rmsi
+https://play.google.com/store/apps/details?id=com.ertelecom.vats
+https://play.google.com/store/apps/details?id=ru.cctvb2b.aventin.app
+https://play.google.com/store/apps/details?id=com.erth.testexe
+https://play.google.com/store/apps/details?id=ru.cctvb2b.ertelecom.app
+https://play.google.com/store/apps/details?id=ru.cctvb2b.acado.app
+https://play.google.com/store/apps/details?id=com.ertelecom.ats
+
