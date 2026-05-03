@@ -180,7 +180,7 @@ com.vk.mail
 com.vk.tv
 com.vk.vkvideo
 com.vkontakte.android
-[04.05.2026 0:37] l3t: com.vkontakte.vkclient
+com.vkontakte.vkclient
 com.vkusvill.courier
 com.vkusvill.vacancy
 com.vyprvpn.android
@@ -367,7 +367,7 @@ ru.iflex.android.a3colortv
 ru.imteleport.plp2
 ru.instamart
 ru.intech.lki
-[04.05.2026 0:37] l3t: ru.ivi.client
+ru.ivi.client
 ru.kfc.kfc_delivery
 ru.kinopoisk
 ru.kinopoisk.beta
@@ -580,7 +580,7 @@ ru.simpls.brs2.mobbank
 ru.skbbank.ib
 ru.skillcap.loto
 ru.sokolov.android
-[04.05.2026 0:37] l3t: ru.sovcombank.investor
+ru.sovcombank.investor
 ru.sovcomcard.halva.v1
 ru.sportmaster.app
 ru.sunlight.sunlight
