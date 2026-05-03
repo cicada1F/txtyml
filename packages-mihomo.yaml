@@ -1,7 +1,4 @@
-# packages-mihomo.yaml
-# Per-App правила — российские приложения в AUTO
-# Обновлено: 04.05.2026 (максимально полный)
-
+# Per-App правила — российские приложения 
 payload:
   # Основной список (был раньше)
   - ANDROID-PACKAGE-NAME,ru.burgerking,AUTO
